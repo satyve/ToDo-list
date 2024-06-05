@@ -22,3 +22,10 @@ ul li {
     list-style: none;
 }
 
+li{
+    cursor: pointer;
+}
+
+.ferdig {
+    text-decoration: line-through;
+}
